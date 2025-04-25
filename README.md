@@ -23,7 +23,7 @@
 - Sistema de Registro do Médico:
     > Opção criada para registrar um médico, pedirá o CPF dele, o nome e sua área de atuação.
     
-    ### Criação da Classe Médico:
+    ### Criação da Class Médico:
     ```java
    class Medico {
     private String nome;
@@ -49,7 +49,7 @@
     }
   }
   ```
-    ### Adicionamento da função registrarMedico na Classe SistemaHospital
+    ### Adicionamento da função registrarMedico na Class SistemaHospital
     ```java
 
     public void registrarMedico(String cpf, String nome, String especialidade) {
